@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url('./assets/dnd/wallpaper.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
